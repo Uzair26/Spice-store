@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demos.thementic.com	TRUE	/	FALSE	1999999999	language	en-gb
+demos.thementic.com	TRUE	/	FALSE	1999999999	currency	USD
+demos.thementic.com	TRUE	/	FALSE	1999999999	OCSESSID	fa36dd601bcc9e36b8abe6b7c9
+
